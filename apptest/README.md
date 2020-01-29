@@ -3,6 +3,7 @@
 ## Project setup
 # changed from local desktop
 #updated readme 3 tasks
+# updated from local desktop on file readme
 ```
 npm install
 ```

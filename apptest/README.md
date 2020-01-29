@@ -2,7 +2,7 @@
 #changed from web-browser
 ## Project setup
 # changed from local desktop
-#updated readme 3 task
+#updated readme 3 tasks
 ```
 npm install
 ```
